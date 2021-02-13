@@ -10,30 +10,6 @@
 
 
 
-```python
-
-
-FURTHER READING
-Tettelin, H. et al. Genome analysis of multiple pathogenic isolates of Streptococcus agalactiae: implications for the microbial “pan-genome”. Proc. Natl Acad. Sci. USA 102, 13950–13955 (2005).
-
-Li, R. et al. Building the sequence map of the human pan-genome. Nat. Biotechnol. 28, 57–63 (2010).
-
-Golicz, A. A. et al. The pangenome of an agronomically important crop plant Brassica oleracea. Nat. Commun. 7, 13390 (2016).
-
-Montenegro, J. D. et al. The pangenome of hexaploid bread wheat. Plant J. 90, 1007–1013 (2017).
-
-Zhao, Q. et al. Pan-genome analysis highlights the extent of genomic variation in cultivated and wild rice. Nat. Genet. 50, 278–284 (2018).
-
-Gao, L. et al. The tomato pan-genome uncovers new genes and a rare allele regulating fruit flavor. Nat. Genet. 51, 1044–1051 (2019).
-
-Alonge, M. et al. Major impacts of widespread structural variation on gene expression and crop improvement in tomato. Cell. 182, 145–161 (2020).
-
-Liu, Y. et al. Pan-genome of wild and cultivated soybeans. Cell 182, 162–176 (2020).
-
-
-
-
-```
 
 
 - #### [The relation of meiotic behaviour to hybridity, polyploidy and apomixis in the Ranunculus auricomus complex (Ranunculaceae)](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02654-3)
