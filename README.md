@@ -2,6 +2,10 @@
 
 
 
+- #### [Chromosome number is key to longevity of polyploid lineages](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17361)
+
+
+
 - #### [The Evolution of Chromosome Numbers: Mechanistic Models and Experimental Approaches](https://academic.oup.com/gbe/article/13/2/evaa220/5923296)
 
 
